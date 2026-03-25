@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { IoEyeOutline } from "react-icons/io5";
 import { useState } from "react";
 import { IoEye } from "react-icons/io5";
-import { authDataContext } from "../context/authcontext"; // Corrected import path
+import { authDataContext } from "../context/AuthContext"; // Corrected import path
 import { useContext } from "react";
 import axios from "axios";
 import { signInWithPopup } from "firebase/auth";
