@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
 import axios from "axios";
-import { authDataContext } from "./authcontext";
+import { authDataContext } from "./AuthContext";
 import { userDataContext } from "./UserContext";
 import { getUserCart } from "../../../backend/controller/cartController";
 
