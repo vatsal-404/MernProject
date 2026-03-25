@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: ["https://mernproject-frontend-0tb9.onrender.com", "http://localhost:5174"],
+    origin: ["https://mernproject-frontend-0tb9.onrender.com", "https://mernproject-admin.onrender.com"],
     credentials: true,
   })
 );
