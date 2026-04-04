@@ -6,7 +6,7 @@ A feature-rich, full-stack e-commerce solution built with the **MERN stack**. Th
 
 ## 🚀 Live Demo
 🔗 [View Live Project](https://mernproject-frontend-0tb9.onrender.com)
-🔗 [View The Admin Portal]()
+🔗 [View The Admin Portal](https://mernproject-admin.onrender.com)
 
 ## 📂 GitHub Repository
 🔗 [Source Code](https://github.com/vatsal-404/MernProject)
